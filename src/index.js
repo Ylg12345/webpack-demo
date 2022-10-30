@@ -34,7 +34,7 @@ container.appendChild(heading);
 container.appendChild(img);
 container.appendChild(editor);
 
-container.appendChild(Button);
+container.appendChild(Button());
 
 document.body.append(container);
 
